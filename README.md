@@ -1,5 +1,8 @@
 # Natural Language Processing with Bi-directional Encoder Representation of Transformers (BERT) & Applications of Twitter Stock Movement Prediction
 
+# AAL Sentiment Analysis & Stock Delta
+
+# AAL, GME, SME Prediction Results
 ![image](https://user-images.githubusercontent.com/104868606/173230450-43f1fee4-5a1d-4fcf-9eb4-e7d0dc3f268b.png)
 
 # Data Source:
